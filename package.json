@@ -1,0 +1,11 @@
+{
+  "name": "maratona-fullcycle-2",
+  "version": "1.0.0",
+  "description": "Desafio 01 da Maratona Full Cycle 2.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Ronaldo Ferreyra <@rbferreyra>",
+  "license": "ISC"
+}
